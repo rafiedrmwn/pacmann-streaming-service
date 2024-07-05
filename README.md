@@ -22,3 +22,6 @@ The benefit of each plan would be as the table below,
 | 120000               | 160000                      | 200000                                  | Price             |
 
 ## Study Case
+Some features are needed to be added, such as:
+- Simple feature to implement the discount (5%) to the existing subscribed users when they *upgrade* their plan, with t&c that their existing duration plan is more than 12 months.
+- Implement special discount (4%) to potentially new users when they use referral code from existing users.
