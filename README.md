@@ -1,13 +1,4 @@
-# pacmann-streaming-service
-PacMann's Case 1 Python Program.
+# PacFlix Video Streaming Service Program.
 
-| Basic Plan           | Standard Plan               | Premium Plan                            | Benefit           |
-|----------------------|-----------------------------|-----------------------------------------|-------------------|
-| Yes                  | Yes                         | Yes                                     | Bisa Stream       |
-| Yes                  | Yes                         | Yes                                     | Bisa Download     |
-| Yes                  | Yes                         | Yes                                     | Kualitas SD       |
-|                      | Yes                         | Yes                                     | Kualitas HD       |
-|                      |                             | Yes                                     | Kualitas UHD      |
-| 1                    | 2                           | 4                                       | Number of Devices |
-| 3rd party Movie only | Basic Plan Content + Sports | Standard Plan + PacFlix Original Series | Jenis Konten      |
-| 120000               | 160000                      | 200000                                  | Harga             |
+## Case Study 1
+![logo](https://github.com/rafiedrmwn/simple-temp-converter/assets/163059751/9e4c7316-7325-454f-9e8d-212af0cc2904)
