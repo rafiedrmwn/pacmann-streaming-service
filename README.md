@@ -9,6 +9,8 @@ The case uses fictitious video streaming service called PacFlix. The video strea
 - Standard Plan
 - Premium Plan
 
+By: Muhammad Rafie Darmawan
+
 The benefit of each plan would be as the table below,
 | Basic Plan           | Standard Plan               | Premium Plan                            | Benefit           |
 |----------------------|-----------------------------|-----------------------------------------|-------------------|
